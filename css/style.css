@@ -191,7 +191,7 @@
 }
 
 /* #### RESUME PAGE #### */
-/* .resume{
+.resume{
     padding: 5rem 0 2.5rem 0;
 }
 .resume > .text{
@@ -240,7 +240,7 @@
 }
 
 /* #### SERVICES PAGE #### */
-/* .services{
+.services{
     padding: 5rem 0 2.5rem 0;
 }
 .services > .text{
@@ -292,7 +292,7 @@
 .services .btn{
     margin: 2.5rem auto 1rem auto;
     display: block;
-}  */
+}
 
 
 /* #### SKILLS PAGE #### */
